@@ -1,0 +1,33 @@
+  
+   body{
+
+    background:bisque
+ }
+ .titulo-principal{
+   padding-left:20px;
+
+ }
+
+.titulo-centralizado{
+    text-align:center;font-size: 50 ;padding: 30px;
+ }
+  
+  p{
+    text-align: center ;
+    background:bisque
+ }
+
+ strong{
+     color: green
+ }
+
+ ul{
+    color:green;font-size: 20;display:inline-block;vertical-align: top;
+    width: 20%;
+    margin-right: 15%; padding: 20px;
+    
+}
+
+ .imagembeneficios{
+   width: 50%;
+}
